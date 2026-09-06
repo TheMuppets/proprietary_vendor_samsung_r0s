@@ -197,7 +197,6 @@ PRODUCT_PACKAGES += \
     libvpl \
     sensors.sensorhub \
     libaudiosaplus_sec \
-    libsamsungSoundbooster_plus \
     libswdap \
     libswspatializer \
     gpsd
