@@ -183,9 +183,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/r0s/proprietary/vendor_ramdisk/lib/firmware/sgpu/vangogh_lite_unified.bin:$(TARGET_COPY_OUT_VENDOR_RAMDISK)/lib/firmware/sgpu/vangogh_lite_unified.bin
 
 PRODUCT_PACKAGES += \
-    android.hardware.gnss@2.1-impl \
     camera.s5e9925 \
-    vendor.samsung.hardware.gnss@2.1-impl \
     libMERTA \
     libbauthserver \
     libbauthtzcommon \
