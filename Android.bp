@@ -709,7 +709,7 @@ cc_prebuilt_binary {
                 "libm",
                 "libandroid_net",
                 "libssl",
-                "libcrypto",
+                "libcryptx",
                 "libz",
                 "libdl",
                 "libc",
